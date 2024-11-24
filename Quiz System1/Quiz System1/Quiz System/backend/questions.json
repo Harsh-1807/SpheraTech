@@ -1,0 +1,144 @@
+[
+    {
+        "category": "Chemistry",
+        "question": "What is the atomic number of Helium?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "2"
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the chemical symbol for Water?",
+        "options": ["O2", "H2O", "CO2", "HO2"],
+        "answer": "H2O"
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the atomic number of Carbon?",
+        "options": ["4", "6", "8", "10"],
+        "answer": "6"
+    },
+    {
+        "category": "Chemistry",
+        "question": "Which element has the chemical symbol 'Na'?",
+        "options": ["Sodium", "Nitrogen", "Nickel", "Neon"],
+        "answer": "Sodium"
+    },
+    {
+        "category": "Chemistry",
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+        "answer": "Nitrogen"
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the molecular formula of methane?",
+        "options": ["CH4", "C2H6", "C3H8", "C4H10"],
+        "answer": "CH4"
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the pH value of pure water?",
+        "options": ["7", "5", "9", "6"],
+        "answer": "7"
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "Na2SO4", "HCl"],
+        "answer": "NaCl"
+    },
+    {
+        "category": "Chemistry",
+        "question": "Which element is known as the 'King of Chemicals'?",
+        "options": ["Sulfur", "Oxygen", "Carbon", "Nitrogen"],
+        "answer": "Sulfur"
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the heaviest naturally occurring element?",
+        "options": ["Uranium", "Plutonium", "Thorium", "Radon"],
+        "answer": "Uranium"
+    },
+    {
+        "category": "Chemistry",
+        "question": "Which is the lightest element?",
+        "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+        "answer": "Hydrogen"
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the chemical symbol for Gold?",
+        "options": ["Ag", "Au", "Pb", "Fe"],
+        "answer": "Au"
+    },
+    {
+        "category": "Sports",
+        "question": "Who won the FIFA World Cup in 2018?",
+        "options": ["Germany", "Brazil", "France", "Argentina"],
+        "answer": "France"
+    },
+    {
+        "category": "Sports",
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "options": ["China", "Brazil", "Russia", "Australia"],
+        "answer": "Brazil"
+    },
+    {
+        "category": "Sports",
+        "question": "Who holds the record for the most goals in World Cup history?",
+        "options": ["Pele", "Ronaldo", "Miroslav Klose", "Diego Maradona"],
+        "answer": "Miroslav Klose"
+    },
+    {
+        "category": "Sports",
+        "question": "Which country won the 2014 FIFA World Cup?",
+        "options": ["Germany", "Argentina", "Brazil", "Spain"],
+        "answer": "Germany"
+    },
+    {
+        "category": "Sports",
+        "question": "Who is known as the fastest man in the world?",
+        "options": ["Usain Bolt", "Carl Lewis", "Michael Johnson", "Tyson Gay"],
+        "answer": "Usain Bolt"
+    },
+    {
+        "category": "Sports",
+        "question": "Which team won the NBA Championship in 2020?",
+        "options": ["Miami Heat", "Los Angeles Lakers", "Golden State Warriors", "Toronto Raptors"],
+        "answer": "Los Angeles Lakers"
+    },
+    {
+        "category": "Sports",
+        "question": "Which country has the most Olympic gold medals?",
+        "options": ["USA", "Russia", "China", "Germany"],
+        "answer": "USA"
+    },
+    {
+        "category": "Sports",
+        "question": "Who won the 2021 UEFA Champions League?",
+        "options": ["Manchester City", "Paris Saint-Germain", "Chelsea", "Bayern Munich"],
+        "answer": "Chelsea"
+    },
+    {
+        "category": "Sports",
+        "question": "Who is considered the greatest tennis player of all time?",
+        "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+        "answer": "Roger Federer"
+    },
+    {
+        "category": "Sports",
+        "question": "Which country won the 2019 Rugby World Cup?",
+        "options": ["New Zealand", "South Africa", "England", "Australia"],
+        "answer": "South Africa"
+    },
+    {
+        "category": "Sports",
+        "question": "In which sport is the Davis Cup contested?",
+        "options": ["Tennis", "Cricket", "Football", "Basketball"],
+        "answer": "Tennis"
+    },
+    {"category": "General Knowledge",
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "Na2SO4", "HCl"],
+        "answer": "NaCl"}
+]
