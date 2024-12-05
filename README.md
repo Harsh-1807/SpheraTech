@@ -25,6 +25,9 @@ This project provides an open-source educational platform to explore historical 
 3. **Web Pages (HTML, CSS, JS with Bootstrap):**
    - Core user-facing website, with interlinked pages starting from `video.html`.
    - Features standalone quizzes and links to React apps and historical environments.
+4. **GeoJson Historical Map:**
+   - Converted GeoJson to svg in using R and displayed in website all the timeline earth map`.
+  
 
 ---
 
